@@ -3,8 +3,8 @@ Dark theme for windbg created using the [x64dbg](https://x64dbg.com/) default th
 ### Install
 
 - Import the registry key, it will replace any other workspace settings called **Default**.
+- Uses Lucida Console (default win10+ font) 
 - **Note**: the symbols directory defaults to `C:\symbols`.
-
 
 ### Preview
 ![Screen](https://github.com/XORMANCER/x64dbg-theme-for-WinDBG/blob/main/screenshot.PNG)
